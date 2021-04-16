@@ -1,17 +1,21 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: enigma2-plugins 3.2.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-16 19:04+0430\n"
-"PO-Revision-Date: 2020-09-23 22:26+0200\n"
-"Last-Translator: \n"
-"Language-Team: none\n"
-"Language: it\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.1\n"
 
 msgid "Alternative resolution when native not supported"
 msgstr ""
@@ -23,15 +27,13 @@ msgid "Auto frame rate (refresh need 'multi')"
 msgstr ""
 
 msgid "Autoresolution"
-msgstr "Risoluzione Automatica"
+msgstr ""
 
 #, python-format
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
-"Plugin Risoluzione Automatica Modalità test:\n"
-"%s é corretto?"
 
 msgid "Autoresolution Switch"
 msgstr ""
@@ -40,10 +42,10 @@ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr ""
 
 msgid "Autoresolution videomode setup"
-msgstr "Impostazioni Risoluzione Automatiìca"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Annulla"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -53,64 +55,58 @@ msgid ""
 msgstr ""
 
 msgid "Deinterlacer mode for interlaced content"
-msgstr "Modalità deinterlacciamento per contenuti Interlacciati"
+msgstr ""
 
 msgid "Deinterlacer mode for progressive content"
-msgstr "Modalità deinterlacciamento per contenuti Progressive"
+msgstr ""
 
 msgid "Delay x seconds after service started"
 msgstr ""
 
 msgid "Enable 1080p24 Mode"
-msgstr "Abilita modalità 1080p24"
+msgstr ""
 
 msgid "Enable 1080p25 Mode"
-msgstr "Abilita modalità 1080p25"
+msgstr ""
 
 msgid "Enable 1080p30 Mode"
-msgstr "Abilita modalità 1080p30"
+msgstr ""
 
-#, fuzzy
 msgid "Enable 2160p24 Mode"
-msgstr "Abilita modalità 720p24"
+msgstr ""
 
-#, fuzzy
 msgid "Enable 2160p25 Mode"
-msgstr "Abilita modalità 1080p25"
+msgstr ""
 
-#, fuzzy
 msgid "Enable 2160p30 Mode"
-msgstr "Abilita modalità 1080p30"
+msgstr ""
 
 msgid "Enable 720p24 Mode"
-msgstr "Abilita modalità 720p24"
+msgstr ""
 
-#, fuzzy
 msgid "Enable 720p50 Mode"
-msgstr "Abilita modalità 720p24"
+msgstr ""
 
 msgid "Enable Autoresolution"
-msgstr "Abilita Risoluzione Automatica"
+msgstr ""
 
 msgid "Exit"
 msgstr ""
 
-#, fuzzy
 msgid "FHD 50/60HZ Progressive Mode"
-msgstr "Modalità SD 30/60HZ Progressive"
+msgstr ""
 
 msgid "HD Interlace Mode"
-msgstr "Modalità HD Interlacciata"
+msgstr ""
 
 msgid "HD Progressive Mode"
-msgstr "Modalità HD Progressive"
+msgstr ""
 
 msgid "Lock timeout"
 msgstr ""
 
-#, fuzzy
 msgid "Manual resolution"
-msgstr "Abilita Risoluzione Automatica"
+msgstr ""
 
 msgid "Manual resolution is not working in Scart/DVI-PC mode!"
 msgstr ""
@@ -128,45 +124,43 @@ msgid "Please select a resolution..."
 msgstr ""
 
 msgid "Refresh Rate"
-msgstr "Frequenza di Refresh"
+msgstr ""
 
 msgid "Return back without confirmation after 10 sec."
 msgstr ""
 
 msgid "Running in testmode"
-msgstr "Funzionamento in modalità test"
+msgstr ""
 
 msgid "SD 24HZ Progressive mode"
-msgstr "Modalità SD 24HZ Progressive"
+msgstr ""
 
 msgid "SD 25/50HZ Interlace Mode"
-msgstr "Modalità SD 25/50HZ Interlacciata"
+msgstr ""
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr "Modalità SD 25/50HZ Progressive"
+msgstr ""
 
 msgid "SD 30/60HZ Interlace Mode"
-msgstr "Modalità SD 30/60HZ Interlacciata"
+msgstr ""
 
 msgid "SD 30/60HZ Progressive Mode"
-msgstr "Modalità SD 30/60HZ Progressive"
+msgstr ""
 
 msgid "Show 'Manual resolution' in extensions menu"
 msgstr ""
 
 msgid "Show info screen"
-msgstr "Mostrare schermata impostazioni"
+msgstr ""
 
 msgid "This resolution is OK?"
 msgstr ""
 
-#, fuzzy
 msgid "UHD Interlace Mode"
-msgstr "Modalità HD Interlacciata"
+msgstr ""
 
-#, fuzzy
 msgid "UHD Progressive Mode"
-msgstr "Modalità HD Progressive"
+msgstr ""
 
 msgid "Use 60HZ instead 30HZ"
 msgstr ""
@@ -193,7 +187,7 @@ msgid "bob"
 msgstr ""
 
 msgid "default"
-msgstr "predefinito"
+msgstr ""
 
 msgid "manual"
 msgstr ""
@@ -205,7 +199,7 @@ msgid "on"
 msgstr ""
 
 msgid "second"
-msgstr "secondo"
+msgstr ""
 
 msgid "seconds"
-msgstr "secondi"
+msgstr ""
