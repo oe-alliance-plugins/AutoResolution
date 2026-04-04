@@ -1,9 +1,8 @@
-from __future__ import print_function
 from Screens.Screen import Screen
 from Screens.ChoiceBox import ChoiceBox
 from Screens.Setup import SetupSummary
 from Screens.MessageBox import MessageBox
-from Components.ConfigList import ConfigList, ConfigListScreen
+from Components.ConfigList import ConfigListScreen
 from Components.config import config, configfile, getConfigListEntry, ConfigSelection, ConfigSubsection, ConfigYesNo, ConfigSubDict, ConfigNothing
 from Components.ServiceEventTracker import ServiceEventTracker
 from Components.ActionMap import ActionMap
@@ -14,7 +13,6 @@ from Plugins.Plugin import PluginDescriptor
 from Tools import Notifications
 from Tools.Directories import fileExists
 from . import _
-import os
 
 try:
 	from Components.SystemInfo import BoxInfo
