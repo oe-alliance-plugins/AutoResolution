@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Automatically change resolution",
+  "description_recipe": "Automatically change resolution",
+  "history_source_dir": "autoresolution",
+  "internal_package_name": "enigma2-plugin-systemplugins-autoresolution",
+  "module_dir_name": "AutoResolution",
+  "output_subdir": "autoresolution",
+  "package_name": "enigma2-plugin-systemplugins-autoresolution",
+  "plugin_src_rel": "autoresolution",
+  "python_package": "AutoResolution",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "AutoResolution",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
