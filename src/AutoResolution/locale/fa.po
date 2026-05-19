@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: auto resolution Persian Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Persian Prince <persianprince@persianpros.org>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -15,36 +15,46 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../src\n"
 
+#: ../plugin.py:589
 msgid "Alternative resolution when native not supported"
 msgstr ""
 
+#: ../plugin.py:585
 msgid "Ask before changing videomode"
 msgstr ""
 
+#: ../plugin.py:94
 msgid "Auto frame rate (refresh need 'multi')"
 msgstr ""
 
+#: ../plugin.py:882
 msgid "Autoresolution"
 msgstr "رزولوشن خودکار"
 
+#: ../plugin.py:466
 #, python-format
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
 
+#: ../plugin.py:892
 msgid "Autoresolution Switch"
 msgstr "تغییر رزولوشن خودکار"
 
+#: ../plugin.py:591
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr " کار نمی کندScart/DVI-PC رزولیشن خودکار برای مد"
 
+#: ../plugin.py:538
 msgid "Autoresolution videomode setup"
 msgstr "راه اندازی  رزولیشن خودکار برای تصاویر ویدئویی"
 
+#: ../plugin.py:551
 msgid "Cancel"
 msgstr "لغو کردن"
 
+#: ../plugin.py:722
 #, python-format
 msgid ""
 "Changing framerate for current service?\n"
@@ -52,161 +62,227 @@ msgid ""
 "New framerate: %s\n"
 msgstr ""
 
+#: ../plugin.py:575
 msgid "Deinterlacer mode for interlaced content"
 msgstr ""
 
+#: ../plugin.py:576
 msgid "Deinterlacer mode for progressive content"
 msgstr ""
 
+#: ../plugin.py:573
 msgid "Delay x seconds after service started"
 msgstr "ثانیه بعد از راه اندازس سرویس x تاخیر به میزان"
 
+#: ../plugin.py:56
 msgid "Enable 1080p24 Mode"
 msgstr "1080p24 فعال سازی مد"
 
+#: ../plugin.py:57
 msgid "Enable 1080p25 Mode"
 msgstr "1080p25 فعالسازی مد"
 
+#: ../plugin.py:58
 msgid "Enable 1080p30 Mode"
 msgstr "1080p30 فعال سازی"
 
+#: ../plugin.py:72
 #, fuzzy
 msgid "Enable 2160p24 Mode"
 msgstr "720p24  فعال سازی مد"
 
+#: ../plugin.py:73
 #, fuzzy
 msgid "Enable 2160p25 Mode"
 msgstr "1080p25 فعالسازی مد"
 
+#: ../plugin.py:74
 #, fuzzy
 msgid "Enable 2160p30 Mode"
 msgstr "1080p30 فعال سازی"
 
+#: ../plugin.py:54
 msgid "Enable 720p24 Mode"
 msgstr "720p24  فعال سازی مد"
 
+#: ../plugin.py:55
 #, fuzzy
 msgid "Enable 720p50 Mode"
 msgstr "720p24  فعال سازی مد"
 
+#: ../plugin.py:556
 msgid "Enable Autoresolution"
 msgstr "فعال سازی خودکار رزولوشن"
 
+#: ../plugin.py:807
 msgid "Exit"
 msgstr ""
 
+#: ../plugin.py:64
 #, fuzzy
 msgid "FHD 50/60Hz Progressive Mode"
 msgstr "مد تصاعدی برای فرکانس های 30/60 هرتز اس دی"
 
+#: ../plugin.py:577
+msgid "Force set progressive for stream/video content"
+msgstr ""
+
+#: ../plugin.py:52
 msgid "HD Interlace Mode"
 msgstr "مد در هم آمیختن برای تصاویر اچ دی"
 
+#: ../plugin.py:53
 msgid "HD Progressive Mode"
 msgstr "مد تصاعدی برای تصاویر اچ دی"
 
+#: ../plugin.py:584
 msgid "Lock timeout"
 msgstr ""
 
+#: ../plugin.py:823 ../plugin.py:894
 #, fuzzy
 msgid "Manual resolution"
 msgstr "فعال سازی خودکار رزولوشن"
 
+#: ../plugin.py:856
 #, fuzzy
 msgid "Manual resolution is not working in Scart/DVI-PC mode!"
 msgstr " کار نمی کندScart/DVI-PC رزولیشن خودکار برای مد"
 
+#: ../plugin.py:587
 msgid "Message timeout"
 msgstr ""
 
+#: ../plugin.py:559
 msgid "Mode"
 msgstr ""
 
+#: ../plugin.py:550
 msgid "OK"
 msgstr "اوکی"
 
+#: ../plugin.py:823
 msgid "Please select a resolution..."
 msgstr ""
 
+#: ../plugin.py:564 ../plugin.py:566 ../plugin.py:568 ../plugin.py:570
 msgid "Refresh Rate"
 msgstr "نرخ بازخوانی"
 
+#: ../plugin.py:595
 msgid "Return back without confirmation after 10 sec."
 msgstr ""
 
+#: ../plugin.py:574
 msgid "Running in testmode"
 msgstr "راه اندازی در حالت آزمایشی"
 
+#: ../plugin.py:49
 msgid "SD 24Hz Progressive mode"
 msgstr ""
 
+#: ../plugin.py:47
 msgid "SD 25/50Hz Interlace Mode"
 msgstr "مد در هم آمیختن برای فرکانس های 25 /50 هرتز اس دی"
 
+#: ../plugin.py:50
 msgid "SD 25/50Hz Progressive Mode"
 msgstr "مد تصاعدی برای فرکانس های 25/50 هرتز اس دی"
 
+#: ../plugin.py:48
 msgid "SD 30/60Hz Interlace Mode"
 msgstr "مد در هم آمیختن برای فرکانس های 60 /30 هرتز اس دی"
 
+#: ../plugin.py:51
 msgid "SD 30/60Hz Progressive Mode"
 msgstr "مد تصاعدی برای فرکانس های 30/60 هرتز اس دی"
 
+#: ../plugin.py:582
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr ""
+
+#: ../plugin.py:593
 msgid "Show 'Manual resolution' in extensions menu"
 msgstr ""
 
+#: ../plugin.py:572
 msgid "Show info screen"
 msgstr "نمایش اطلاعات صفحه نمایش"
 
+#: ../plugin.py:580
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr ""
+
+#: ../plugin.py:830
 msgid "This resolution is OK?"
 msgstr ""
 
+#: ../plugin.py:70
 #, fuzzy
 msgid "UHD Interlace Mode"
 msgstr "مد در هم آمیختن برای تصاویر اچ دی"
 
+#: ../plugin.py:71
 #, fuzzy
 msgid "UHD Progressive Mode"
 msgstr "مد تصاعدی برای تصاویر اچ دی"
 
+#: ../plugin.py:588
 msgid "Use 60Hz instead 30Hz"
 msgstr ""
 
+#: ../plugin.py:808
 msgid "Video: "
 msgstr ""
 
+#: ../plugin.py:436
 #, python-format
 msgid "Videocontent: %sx%s%s %sHz"
 msgstr ""
 
+#: ../plugin.py:456 ../plugin.py:462
 #, python-format
 msgid "Videomode: %s"
 msgstr ""
 
+#: ../plugin.py:485
 #, python-format
 msgid "Videomode: %s %s %s"
 msgstr ""
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "auto"
 msgstr "خودکار"
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "bob"
 msgstr "تند و سریع"
 
+#: ../plugin.py:275
 msgid "default"
 msgstr "پیش فرض"
 
+#: ../plugin.py:94
 msgid "manual"
 msgstr ""
 
+#: ../plugin.py:86
+msgid "no"
+msgstr ""
+
+#: ../plugin.py:87 ../plugin.py:88
 msgid "off"
 msgstr "خاموش"
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "on"
 msgstr "روشن"
 
+#: ../plugin.py:91
 msgid "second"
 msgstr "ثانیه"
 
+#: ../plugin.py:90 ../plugin.py:91 ../plugin.py:92 ../plugin.py:93
+#: ../plugin.py:95 ../plugin.py:99
 msgid "seconds"
 msgstr "ثانیه ها"

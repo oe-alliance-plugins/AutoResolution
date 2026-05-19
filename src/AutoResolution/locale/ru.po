@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: litvcom\n"
 "Language-Team: \n"
@@ -13,18 +13,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.11\n"
 
+#: ../plugin.py:589
 msgid "Alternative resolution when native not supported"
 msgstr ""
 
+#: ../plugin.py:585
 msgid "Ask before changing videomode"
 msgstr ""
 
+#: ../plugin.py:94
 msgid "Auto frame rate (refresh need 'multi')"
 msgstr "Авто (необходимо выбрать частоту обновления - 'multi')"
 
+#: ../plugin.py:882
 msgid "Autoresolution"
 msgstr "Авторазрешение экрана"
 
+#: ../plugin.py:466
 #, python-format
 msgid ""
 "Autoresolution Plugin Testmode:\n"
@@ -33,18 +38,23 @@ msgstr ""
 "Авторазрешение работает в тестовом режиме:\n"
 "%s OK?"
 
+#: ../plugin.py:892
 msgid "Autoresolution Switch"
 msgstr "Переключение"
 
+#: ../plugin.py:591
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr "Авторазрешение не работает в режиме Scart/DVI-PC Mode"
 
+#: ../plugin.py:538
 msgid "Autoresolution videomode setup"
 msgstr "Установка видеорежима"
 
+#: ../plugin.py:551
 msgid "Cancel"
 msgstr "Отменить"
 
+#: ../plugin.py:722
 #, python-format
 msgid ""
 "Changing framerate for current service?\n"
@@ -52,161 +62,227 @@ msgid ""
 "New framerate: %s\n"
 msgstr ""
 
+#: ../plugin.py:575
 msgid "Deinterlacer mode for interlaced content"
 msgstr "Устранение чересстрочности (чересстрочный контент)"
 
+#: ../plugin.py:576
 msgid "Deinterlacer mode for progressive content"
 msgstr "Устранение чересстрочности (прогрессивный контент)"
 
+#: ../plugin.py:573
 msgid "Delay x seconds after service started"
 msgstr "Задержка х секунд после старта службы"
 
+#: ../plugin.py:56
 msgid "Enable 1080p24 Mode"
 msgstr "Включить режим 1080p24"
 
+#: ../plugin.py:57
 msgid "Enable 1080p25 Mode"
 msgstr "Включить режим 1080p25"
 
+#: ../plugin.py:58
 msgid "Enable 1080p30 Mode"
 msgstr "Включить режим 1080p30"
 
+#: ../plugin.py:72
 #, fuzzy
 msgid "Enable 2160p24 Mode"
 msgstr "Включить режим 720p24"
 
+#: ../plugin.py:73
 #, fuzzy
 msgid "Enable 2160p25 Mode"
 msgstr "Включить режим 1080p25"
 
+#: ../plugin.py:74
 #, fuzzy
 msgid "Enable 2160p30 Mode"
 msgstr "Включить режим 1080p30"
 
+#: ../plugin.py:54
 msgid "Enable 720p24 Mode"
 msgstr "Включить режим 720p24"
 
+#: ../plugin.py:55
 #, fuzzy
 msgid "Enable 720p50 Mode"
 msgstr "Включить режим 720p24"
 
+#: ../plugin.py:556
 msgid "Enable Autoresolution"
 msgstr "Включить"
 
+#: ../plugin.py:807
 msgid "Exit"
 msgstr ""
 
+#: ../plugin.py:64
 #, fuzzy
 msgid "FHD 50/60Hz Progressive Mode"
 msgstr "Чересстрочная развертка SD 30/60Гц"
 
+#: ../plugin.py:577
+msgid "Force set progressive for stream/video content"
+msgstr ""
+
+#: ../plugin.py:52
 msgid "HD Interlace Mode"
 msgstr "Чересстрочная развёртка HD"
 
+#: ../plugin.py:53
 msgid "HD Progressive Mode"
 msgstr "Прогрессивная развёртка HD"
 
+#: ../plugin.py:584
 msgid "Lock timeout"
 msgstr "Время ожидания"
 
+#: ../plugin.py:823 ../plugin.py:894
 #, fuzzy
 msgid "Manual resolution"
 msgstr "Включить"
 
+#: ../plugin.py:856
 #, fuzzy
 msgid "Manual resolution is not working in Scart/DVI-PC mode!"
 msgstr "Авторазрешение не работает в режиме Scart/DVI-PC Mode"
 
+#: ../plugin.py:587
 msgid "Message timeout"
 msgstr ""
 
+#: ../plugin.py:559
 msgid "Mode"
 msgstr "Режим"
 
+#: ../plugin.py:550
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:823
 msgid "Please select a resolution..."
 msgstr ""
 
+#: ../plugin.py:564 ../plugin.py:566 ../plugin.py:568 ../plugin.py:570
 msgid "Refresh Rate"
 msgstr "Частота обновления"
 
+#: ../plugin.py:595
 msgid "Return back without confirmation after 10 sec."
 msgstr ""
 
+#: ../plugin.py:574
 msgid "Running in testmode"
 msgstr "Запуск в тестовом режиме"
 
+#: ../plugin.py:49
 msgid "SD 24Hz Progressive mode"
 msgstr "Прогрессивная развертка SD 24Гц"
 
+#: ../plugin.py:47
 msgid "SD 25/50Hz Interlace Mode"
 msgstr "Чересстрочная развертка SD 25/50Гц"
 
+#: ../plugin.py:50
 msgid "SD 25/50Hz Progressive Mode"
 msgstr "Прогрессивная развертка SD 25/50Гц"
 
+#: ../plugin.py:48
 msgid "SD 30/60Hz Interlace Mode"
 msgstr "Чересстрочная развертка SD 30/60Гц"
 
+#: ../plugin.py:51
 msgid "SD 30/60Hz Progressive Mode"
 msgstr "Чересстрочная развертка SD 30/60Гц"
 
+#: ../plugin.py:582
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr ""
+
+#: ../plugin.py:593
 msgid "Show 'Manual resolution' in extensions menu"
 msgstr ""
 
+#: ../plugin.py:572
 msgid "Show info screen"
 msgstr "Отображать информацию"
 
+#: ../plugin.py:580
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr ""
+
+#: ../plugin.py:830
 msgid "This resolution is OK?"
 msgstr ""
 
+#: ../plugin.py:70
 #, fuzzy
 msgid "UHD Interlace Mode"
 msgstr "Чересстрочная развёртка HD"
 
+#: ../plugin.py:71
 #, fuzzy
 msgid "UHD Progressive Mode"
 msgstr "Прогрессивная развёртка HD"
 
+#: ../plugin.py:588
 msgid "Use 60Hz instead 30Hz"
 msgstr ""
 
+#: ../plugin.py:808
 msgid "Video: "
 msgstr ""
 
+#: ../plugin.py:436
 #, python-format
 msgid "Videocontent: %sx%s%s %sHz"
 msgstr ""
 
+#: ../plugin.py:456 ../plugin.py:462
 #, python-format
 msgid "Videomode: %s"
 msgstr ""
 
+#: ../plugin.py:485
 #, python-format
 msgid "Videomode: %s %s %s"
 msgstr ""
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "auto"
 msgstr ""
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "bob"
 msgstr "удвоения частоты кадров"
 
+#: ../plugin.py:275
 msgid "default"
 msgstr "по умолчанию"
 
+#: ../plugin.py:94
 msgid "manual"
 msgstr ""
 
+#: ../plugin.py:86
+msgid "no"
+msgstr ""
+
+#: ../plugin.py:87 ../plugin.py:88
 msgid "off"
 msgstr "выкл."
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "on"
 msgstr "вкл."
 
+#: ../plugin.py:91
 msgid "second"
 msgstr "секунда"
 
+#: ../plugin.py:90 ../plugin.py:91 ../plugin.py:92 ../plugin.py:93
+#: ../plugin.py:95 ../plugin.py:99
 msgid "seconds"
 msgstr "секунд"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2015-10-23 22:46+0200\n"
 "Last-Translator: Hasan Kiran <sunder67@hotmail.com>\n"
 "Language-Team: Turkish <sunder67@hotmail.com>\n"
@@ -19,36 +19,46 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
 
+#: ../plugin.py:589
 msgid "Alternative resolution when native not supported"
 msgstr ""
 
+#: ../plugin.py:585
 msgid "Ask before changing videomode"
 msgstr ""
 
+#: ../plugin.py:94
 msgid "Auto frame rate (refresh need 'multi')"
 msgstr ""
 
+#: ../plugin.py:882
 msgid "Autoresolution"
 msgstr "Otomatik çözünürlük"
 
+#: ../plugin.py:466
 #, python-format
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
 
+#: ../plugin.py:892
 msgid "Autoresolution Switch"
 msgstr "Otomatik Çöüzünürlük Değiştirme"
 
+#: ../plugin.py:591
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr "Otomatik Çözünürlük Scart/DVI-PC modunda çalışmıyor"
 
+#: ../plugin.py:538
 msgid "Autoresolution videomode setup"
 msgstr "Otomatik Çözünürlük video kip kurulumu"
 
+#: ../plugin.py:551
 msgid "Cancel"
 msgstr "İptal"
 
+#: ../plugin.py:722
 #, python-format
 msgid ""
 "Changing framerate for current service?\n"
@@ -56,161 +66,227 @@ msgid ""
 "New framerate: %s\n"
 msgstr ""
 
+#: ../plugin.py:575
 msgid "Deinterlacer mode for interlaced content"
 msgstr ""
 
+#: ../plugin.py:576
 msgid "Deinterlacer mode for progressive content"
 msgstr ""
 
+#: ../plugin.py:573
 msgid "Delay x seconds after service started"
 msgstr "Hizmet başlatıldıktan sonra x saniye gecikme"
 
+#: ../plugin.py:56
 msgid "Enable 1080p24 Mode"
 msgstr "1080p24 Kipi etkinleştir"
 
+#: ../plugin.py:57
 msgid "Enable 1080p25 Mode"
 msgstr "1080p25 Kipi etkinleştir"
 
+#: ../plugin.py:58
 msgid "Enable 1080p30 Mode"
 msgstr "1080p30 Kipi etkinleştir"
 
+#: ../plugin.py:72
 #, fuzzy
 msgid "Enable 2160p24 Mode"
 msgstr "720p24 Kipi etkinleştir"
 
+#: ../plugin.py:73
 #, fuzzy
 msgid "Enable 2160p25 Mode"
 msgstr "1080p25 Kipi etkinleştir"
 
+#: ../plugin.py:74
 #, fuzzy
 msgid "Enable 2160p30 Mode"
 msgstr "1080p30 Kipi etkinleştir"
 
+#: ../plugin.py:54
 msgid "Enable 720p24 Mode"
 msgstr "720p24 Kipi etkinleştir"
 
+#: ../plugin.py:55
 #, fuzzy
 msgid "Enable 720p50 Mode"
 msgstr "720p24 Kipi etkinleştir"
 
+#: ../plugin.py:556
 msgid "Enable Autoresolution"
 msgstr "Otomatik Çözünürlük Etkin"
 
+#: ../plugin.py:807
 msgid "Exit"
 msgstr ""
 
+#: ../plugin.py:64
 #, fuzzy
 msgid "FHD 50/60Hz Progressive Mode"
 msgstr "SD 30/60Hz Artan Orantılı Kip"
 
+#: ../plugin.py:577
+msgid "Force set progressive for stream/video content"
+msgstr ""
+
+#: ../plugin.py:52
 msgid "HD Interlace Mode"
 msgstr "HD Geçişli Kip"
 
+#: ../plugin.py:53
 msgid "HD Progressive Mode"
 msgstr "HD Artan Orantılı Kip"
 
+#: ../plugin.py:584
 msgid "Lock timeout"
 msgstr ""
 
+#: ../plugin.py:823 ../plugin.py:894
 #, fuzzy
 msgid "Manual resolution"
 msgstr "Otomatik Çözünürlük Etkin"
 
+#: ../plugin.py:856
 #, fuzzy
 msgid "Manual resolution is not working in Scart/DVI-PC mode!"
 msgstr "Otomatik Çözünürlük Scart/DVI-PC modunda çalışmıyor"
 
+#: ../plugin.py:587
 msgid "Message timeout"
 msgstr ""
 
+#: ../plugin.py:559
 msgid "Mode"
 msgstr ""
 
+#: ../plugin.py:550
 msgid "OK"
 msgstr "Tamam"
 
+#: ../plugin.py:823
 msgid "Please select a resolution..."
 msgstr ""
 
+#: ../plugin.py:564 ../plugin.py:566 ../plugin.py:568 ../plugin.py:570
 msgid "Refresh Rate"
 msgstr "Tazeleme Hızı"
 
+#: ../plugin.py:595
 msgid "Return back without confirmation after 10 sec."
 msgstr ""
 
+#: ../plugin.py:574
 msgid "Running in testmode"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "SD 24Hz Progressive mode"
 msgstr "SD 24Hz Artan Orantılı Kip"
 
+#: ../plugin.py:47
 msgid "SD 25/50Hz Interlace Mode"
 msgstr "SD 25/50Hz Geçişli Kip"
 
+#: ../plugin.py:50
 msgid "SD 25/50Hz Progressive Mode"
 msgstr "SD 25/50Hz Artan Orantılı Kip"
 
+#: ../plugin.py:48
 msgid "SD 30/60Hz Interlace Mode"
 msgstr "SD 30/60Hz Geçişli Kip"
 
+#: ../plugin.py:51
 msgid "SD 30/60Hz Progressive Mode"
 msgstr "SD 30/60Hz Artan Orantılı Kip"
 
+#: ../plugin.py:582
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr ""
+
+#: ../plugin.py:593
 msgid "Show 'Manual resolution' in extensions menu"
 msgstr ""
 
+#: ../plugin.py:572
 msgid "Show info screen"
 msgstr "Bilgi ekranını göster"
 
+#: ../plugin.py:580
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr ""
+
+#: ../plugin.py:830
 msgid "This resolution is OK?"
 msgstr ""
 
+#: ../plugin.py:70
 #, fuzzy
 msgid "UHD Interlace Mode"
 msgstr "HD Geçişli Kip"
 
+#: ../plugin.py:71
 #, fuzzy
 msgid "UHD Progressive Mode"
 msgstr "HD Artan Orantılı Kip"
 
+#: ../plugin.py:588
 msgid "Use 60Hz instead 30Hz"
 msgstr ""
 
+#: ../plugin.py:808
 msgid "Video: "
 msgstr ""
 
+#: ../plugin.py:436
 #, python-format
 msgid "Videocontent: %sx%s%s %sHz"
 msgstr ""
 
+#: ../plugin.py:456 ../plugin.py:462
 #, python-format
 msgid "Videomode: %s"
 msgstr ""
 
+#: ../plugin.py:485
 #, python-format
 msgid "Videomode: %s %s %s"
 msgstr ""
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "auto"
 msgstr "otomatik"
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "bob"
 msgstr ""
 
+#: ../plugin.py:275
 msgid "default"
 msgstr "öntanımlı"
 
+#: ../plugin.py:94
 msgid "manual"
 msgstr ""
 
+#: ../plugin.py:86
+msgid "no"
+msgstr ""
+
+#: ../plugin.py:87 ../plugin.py:88
 msgid "off"
 msgstr "kapalı"
 
+#: ../plugin.py:87 ../plugin.py:88
 msgid "on"
 msgstr "açık"
 
+#: ../plugin.py:91
 msgid "second"
 msgstr "saniye"
 
+#: ../plugin.py:90 ../plugin.py:91 ../plugin.py:92 ../plugin.py:93
+#: ../plugin.py:95 ../plugin.py:99
 msgid "seconds"
 msgstr "saniye"
